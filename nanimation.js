@@ -58,7 +58,7 @@ let animate = (ctx, images, animation, callback) => {
     setTimeout(() => {
       ctx.clearRect(0, 0, 500, 500);
       ctx.drawImage(image, 0, 0, 500, 500);
-    }, index * 100);
+    }, index * 400);
   });
 
   setTimeout(callback, images[animation].length * 100);
