@@ -61,7 +61,7 @@ let animate = (ctx, images, animation, callback) => {
     }, index * 100);
   });
 
-  setTimeout(callback, images[animation].length * 500);
+  setTimeout(callback, images[animation].length * 1000);
 };
 
 loadImages((images) => {
