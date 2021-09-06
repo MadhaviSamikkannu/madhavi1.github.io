@@ -2,7 +2,7 @@
 <h1 class= "my-title"> Webpage Developed for WD101-AICTE - LITE  </h1>
 
 <div class="topnav">
-    <a class="active" href="nHome.html">Home</a>
+    <a class="active" href="Index.html">Home</a>
     <a class ="active" href="nAnimation.html">Animation</a>
     <br>
      <link rel="stylesheet" href="nindex.css" >
