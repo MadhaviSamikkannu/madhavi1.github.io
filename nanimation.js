@@ -107,7 +107,7 @@ loadImages((images) => {
 
     if (key === "ArrowRight") {
       queuedAnimations.push("punch");
-    } else if (key === "ArrowLeftt") {
+    } else if (key === "ArrowLeft") {
       queuedAnimations.push("kick");
     } else if (key === "ArrowUp") {
       queuedAnimations.push("forward");
